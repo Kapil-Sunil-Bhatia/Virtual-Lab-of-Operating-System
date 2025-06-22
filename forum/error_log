@@ -1,0 +1,5 @@
+[17-Feb-2025 03:40:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's pc, rest give java error. "Error: LinkageError occurred while loading main ...' at line 2 in /home/b90w4bcece10/public_html/vlabcomp.kjsieit.in/forum/save.php:8
+Stack trace:
+#0 /home/b90w4bcece10/public_html/vlabcomp.kjsieit.in/forum/save.php(8): PDO->query()
+#1 {main}
+  thrown in /home/b90w4bcece10/public_html/vlabcomp.kjsieit.in/forum/save.php on line 8

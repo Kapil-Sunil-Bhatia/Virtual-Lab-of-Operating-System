@@ -1,0 +1,19 @@
+
+body{
+    padding: 50px;
+}
+
+.flag{
+    padding: 80px 15px;
+    text-align: center;
+}
+
+*{
+ background: rgba(0,0,0,0);
+}
+
+
+
+.container.navbar-header{
+    background-color: #9b2928;
+}
