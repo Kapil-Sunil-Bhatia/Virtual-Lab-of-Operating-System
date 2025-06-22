@@ -1,6 +1,6 @@
 
-# 💻 Virtual Lab of Operating Systems
-
+# 💻 Virtual Lab of Operating Systems 
+Live link: vlabcomp.kjsieit.in
 ## 🔍 Overview
 
 The **Virtual Lab of Operating Systems** is a user-friendly web-based platform designed to help students and faculty understand key OS concepts through interactive simulations. It covers essential algorithms like Process Scheduling, Banker's Algorithm, Disk Scheduling, and Process Synchronization.
