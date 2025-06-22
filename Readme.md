@@ -70,37 +70,6 @@ This lab presents each algorithm with theoretical explanations, numericals, flow
 
 ---
 
-## 📁 Folder Structure (Assumed)
-
-```
-/virtual-lab-os
-│
-├── /experiments
-│   ├── process_scheduling/
-│   ├── disk_scheduling/
-│   └── synchronization/
-│
-├── /auth
-│   ├── login.php
-│   ├── register.php
-│   └── verify.php
-│
-├── /simulators
-│   ├── *.jar (Java-based simulators)
-│
-├── /assets
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── index.php
-├── about.php
-├── feedback.php
-└── forum.php
-```
-
----
-
 ## 📈 Result Highlights
 
 - All major OS algorithms simulated successfully.
